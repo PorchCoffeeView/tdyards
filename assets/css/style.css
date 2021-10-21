@@ -144,3 +144,7 @@ h2 {
   left: 90%;
   width: 11%;
 }
+
+img:hover {
+  transform: translate(0.24vw, 0.32vw);
+}
